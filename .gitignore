@@ -17,6 +17,7 @@ test/tmp/**
 
 
 # Production
+lib
 build
 dist
 dist
